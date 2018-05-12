@@ -1,0 +1,40 @@
+_repo: Pine-Needles_38922
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38922-h/images/icover.jpg
+creator:
+  authors:
+  - agent_name: Harms, Louis
+    aliases:
+    - Harms, Georg Ludwig Detlev Theodor
+    - Harms, Ludwig
+    - Harms, L. (Louis)
+    birthdate: 1808
+    deathdate: 1865
+    gutenberg_agent_id: '39157'
+    url: http://www.gutenberg.org/2009/agents/39157
+  - agent_name: Warner, Susan
+    aliases:
+    - Wetherell, Elizabeth
+    - Warner, Susan Bogert
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '4744'
+    url: http://www.gutenberg.org/2009/agents/4744
+    wikipedia: http://en.wikipedia.org/wiki/Susan_Warner
+description: ''
+gutenberg_issued: '2012-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600 -- Juvenile fiction'
+title: Pine Needles
+url: http://www.gutenberg.org/ebooks/38922
