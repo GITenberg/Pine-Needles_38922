@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4744
     wikipedia: http://en.wikipedia.org/wiki/Susan_Warner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38922#Pine-Needles
 gutenberg_issued: '2012-02-18'
 gutenberg_type: Text
 identifiers:
